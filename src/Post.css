@@ -1,0 +1,6 @@
+.post{
+    border: 2px solid maroon;
+    border-radius: 5px;
+    width: 300px;
+    display: flex;
+}
